@@ -1,4 +1,4 @@
-This is an attempt to create most basic blob trigger serverless (function app in azure)
+This is an attempt to create most basic blob trigger event driven serverless (function app in azure)
 
 Overview
 This project shows a basic Azure Function App that triggers on the creation of new blobs in Azure Blob Storage. The application is designed to demonstrate the power of serverless computing which enables you to efficiently process data with minimal infrastructure management.
